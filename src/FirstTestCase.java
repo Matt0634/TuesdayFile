@@ -3,5 +3,9 @@ public class FirstTestCase {
         System.out.println("Welcome to Cybertek!");
         System.out.println("Added this lane!");
         System.out.println("Cybertek is orginizing some nice events!");
+        System.out.println("Added this lane!");
+        System.out.println("Cybertek is orginizing some nice events!");
+        System.out.println("Added this lane!");
+        System.out.println("Cybertek is orginizing some nice events!");
     }
 }
